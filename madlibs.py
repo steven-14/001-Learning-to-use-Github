@@ -27,13 +27,3 @@ because I love to {verb1}. Stay hydrated and {verb2} like you are {famous_person
 print(madlib)
 
 # kylie ying's madlibs are here: C:\Users\toshiba\Desktop\A Projects\kylie ying's madlibs code for beginner my beginner madlibs project\beginner-projects-master
-
-
-
-#Unfinished. Up to 5m 20s, youtube video: 12 Beginner Python Projects - Coding Course - FreeCodeCamp.org
-#Complete this and upload to Github.
-#steven, notes on the input function, https://docs.python.org/3/library/functions.html
-'''multi line comment
-here.
-If you use the multi-line comment you must actually use more than one line.
-'''
