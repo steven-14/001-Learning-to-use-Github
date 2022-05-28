@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 30 20:58:14 2022
-
-@author: steven1x1
-"""
 # This is my beginner project,  code along with Kylie Ying.
 # youtube video: 12 Beginner Python Projects - Coding Course - FreeCodeCamp.org
 # To run this, save it to desktop and navigate there using the command line interpreter.
