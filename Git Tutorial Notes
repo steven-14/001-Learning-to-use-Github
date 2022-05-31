@@ -1,0 +1,35 @@
+LEARNING GIT FROM HERE:
+Youtube\Git and GitHub for Beginners - Crash Course\freeCodeCamp.org
+
+LINKS IN THE DETAILS OF THE VIDEO
+https://gist.github.com/gwenf/19e5748a5391929e8e938a22c8a4b3f2
+https://www.atlassian.com/git/tutorials/install-git
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+TERMS
+Directory (folder)
+Terminal of command line
+CLI - Command line interface- some programs need that to work.
+cd- change directory
+Code Editor
+Repository- project on git (usually)
+Github-A website to host repositories and portfoolio
+
+GIT COMMANDS
+Clone- copy repository to folder on local machine
+add-Track your files and changes in Git
+commit-Save your files to Git
+push-Upload Git commits to remote github
+pull-download changes to local machine (lm)
+status -> check to see which files are being tracked or need to be commited
+init -> use this command inside of your project to turn it into a Git repository and start using Git with that codebase
+
+SIGN UP FOR GITHUB
+Login 
+Create a new repository
+Create or edit readme to add a new file.
+Click commits to look at the entire history of a repository or file...
+
+ 
+
+
