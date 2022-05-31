@@ -1,5 +1,6 @@
-UNFINISHED
-Up to video 11m 23s
+UNFINISHED. Bookmark: Up to video 12m 15s.
+Learning Git mainly from here:
+Youtube\Git and GitHub for Beginners - Crash Course\freeCodeCamp.org by Gwen Faraday
 
 LEARNING GIT FROM HERE:
 https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
@@ -45,8 +46,5 @@ Use this tutorial to install Git on windows:
 https://www.atlassian.com/git/tutorials/install-git#windows 
 For the windows installation, when you download and install it,
 Gwen recommends choose the Git bash option from the install menu.
-Here is post that explains why use the bash:
-That is because Bash is portable,has more features than cmd, servers use bash (because Unix/Linux), 
+Because Bash is portable,has more features than cmd, servers use bash (because Unix/Linux), 
 and because Git tutorials are written in bash.
-
-
