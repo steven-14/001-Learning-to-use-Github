@@ -1,5 +1,11 @@
+UNFINISHED
+Up to video 11m 23s
+
 LEARNING GIT FROM HERE:
-Youtube\Git and GitHub for Beginners - Crash Course\freeCodeCamp.org
+https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
+AND HERE:
+Youtube\Git and GitHub for Beginners - Crash Course\freeCodeCamp.org by Gwen Faraday
+Gwen Faraday's youTube channel: hhttps://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA
 
 LINKS IN THE DETAILS OF THE VIDEO
 https://gist.github.com/gwenf/19e5748a5391929e8e938a22c8a4b3f2
@@ -28,8 +34,19 @@ SIGN UP FOR GITHUB
 Login 
 Create a new repository
 Create or edit readme to add a new file.
-Click commits to look at the entire history of a repository or file...
+Click 'commits' to look at the entire history of a repository or file...
+Click on the version number of a file to view the commits.
++ or - next to line means someting was added or subtracted. White space means unchanged.
 
- 
+INSTALL GIT
+If you have IOS or Linux Git should be installed.
+If you have windows then you need to install it.
+Use this tutorial to install Git on windows:
+https://www.atlassian.com/git/tutorials/install-git#windows 
+For the windows installation, when you download and install it,
+Gwen recommends choose the Git bash option from the install menu.
+Here is post that explains why use the bash:
+That is because Bash is portable,has more features than cmd, servers use bash (because Unix/Linux), 
+and because Git tutorials are written in bash.
 
 
